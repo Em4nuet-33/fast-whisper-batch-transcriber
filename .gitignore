@@ -1,0 +1,15 @@
+# Entorno virtual
+.venv/
+venv/
+env/
+
+# Audios y resultados (No subir archivos pesados ni privados)
+*.mp3
+*.wav
+*.m4a
+transcripcion.txt
+fragmento_*.mp3
+
+# Python cache
+__pycache__/
+*.py[cod]
